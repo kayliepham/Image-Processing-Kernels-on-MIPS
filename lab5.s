@@ -1,16 +1,6 @@
 jal main
 #                         CS 240, Lab #5
-#
-#      IMPORTANT NOTES:
-#
-#      Write your assembly code only in the marked blocks.
-#
-#      DO NOT change anything outside the marked blocks.
-#
-#      Remember to fill in your name, Red ID in the designated fields.
-#
-#
-#      
+      
 ###############################################################
 #                           Data Section
 .data
